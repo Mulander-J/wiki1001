@@ -1,0 +1,68 @@
+{
+  "_from": "@vuepress/theme-default@^1.0.0-alpha.31",
+  "_id": "@vuepress/theme-default@1.0.0-alpha.31",
+  "_inBundle": false,
+  "_integrity": "sha512-ADtbYnhweB7EOcE22olElHpSgJ0oysK+4/ergkXZKnfoMsMAKoyBFvHZRfAbr3KU93ZLwrSjwAYy5faod936eA==",
+  "_location": "/@vuepress/theme-default",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@vuepress/theme-default@^1.0.0-alpha.31",
+    "name": "@vuepress/theme-default",
+    "escapedName": "@vuepress%2ftheme-default",
+    "scope": "@vuepress",
+    "rawSpec": "^1.0.0-alpha.31",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0-alpha.31"
+  },
+  "_requiredBy": [
+    "/vuepress"
+  ],
+  "_resolved": "https://registry.npmjs.org/@vuepress/theme-default/-/theme-default-1.0.0-alpha.31.tgz",
+  "_shasum": "6921c074311cdf7bb3cf136aa1b096cef3d40682",
+  "_spec": "@vuepress/theme-default@^1.0.0-alpha.31",
+  "_where": "G:\\WorkSpace\\WebStormWS\\Wiki1001\\Dev\\node_modules\\vuepress",
+  "author": {
+    "name": "Evan You"
+  },
+  "bugs": {
+    "url": "https://github.com/vuejs/vuepress/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@vuepress/plugin-active-header-links": "^1.0.0-alpha.31",
+    "@vuepress/plugin-nprogress": "^1.0.0-alpha.31",
+    "@vuepress/plugin-search": "^1.0.0-alpha.31",
+    "docsearch.js": "^2.5.2",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  },
+  "deprecated": false,
+  "description": "Default theme for VuePress",
+  "gitHead": "15941cf6a91b8de09f7336cb8399132b350acf36",
+  "homepage": "https://github.com/vuejs/vuepress/packages/@vuepress/theme-default#readme",
+  "keywords": [
+    "documentation",
+    "vue",
+    "vuepress",
+    "generator"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "ULIVZ",
+      "email": "chl814@foxmail.com"
+    }
+  ],
+  "name": "@vuepress/theme-default",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vuepress.git"
+  },
+  "version": "1.0.0-alpha.31"
+}
