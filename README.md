@@ -3,6 +3,13 @@
 >- [模板预览←](https://mulander-j.github.io/wiki1001/)
 >- [精简模板源码←](https://github.com/Mulander-J/wiki1001)
 
+
+## Serve & Build
+```
+npm run dev
+npm run build
+```
+
 ## 00.契子
 - 偶尔的整理洁癖
 - 平常有收藏+书签的习惯
